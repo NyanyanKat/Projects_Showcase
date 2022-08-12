@@ -15,7 +15,7 @@ Present all your projects in style with a super customizable web app! ✨
 `Projects` uses the GitHub API to list all your GitHub projects in a nice searchable grid.
 Also shows pretty programming icons using `devicons`.
 
-The site should be live on `https://nyanyankat.github.io/Projects_Showcase`
+The site should be live on <a href="https://github.com/NyanyanKat/Projects_Showcase">Live Demo</a>
 
 
 #### Programming Language Icons
