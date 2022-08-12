@@ -8,7 +8,7 @@
 
 </div>
 
-## 1 About
+## About
 
 Present all my projects in style with a super customizable web app! ✨
 
@@ -23,14 +23,14 @@ The site should be live on <a href="https://github.com/NyanyanKat/Projects_Showc
 This project uses [Devicon](https://devicon.dev/) for adding language icons
 
 
-## 2 How it was built
+## How it was built
 
 Projects was built using `HTML` `CSS` & `JavaScript`.
 It was built on Neovim and the python http server.
 Uses GitHub API for data and Devicons for programming icons.
 
 
-## 3 More Info
+## More Info
 
 <div align="center">
 
