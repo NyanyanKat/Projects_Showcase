@@ -1,4 +1,4 @@
-##Showcase All My Projects
+## Showcase All My Projects
 
 <figure>
   <img src= "images/Projects.PNG" alt="projects screenshot" style="width:100%">
