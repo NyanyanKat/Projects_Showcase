@@ -1,7 +1,7 @@
 #Showcase All My Projects
 
 <figure>
-  <img src= "images/screenshot.png" alt="projects screenshot" style="width:100%">
+  <img src= "images/Projects.png" alt="projects screenshot" style="width:100%">
   <br/>
   <figcaption>projects screenshot</figcaption>
 </figure>
