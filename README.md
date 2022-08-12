@@ -15,7 +15,7 @@ Also shows pretty programming icons using `devicons`.
 
 The site should be live on <a href="https://github.com/NyanyanKat/Projects_Showcase">Live Demo</a>
 
-<br />
+  
 ### Programming Language Icons
 
 This project uses [Devicon](https://devicon.dev/) for adding language icons
